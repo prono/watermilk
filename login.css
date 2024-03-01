@@ -1,0 +1,61 @@
+.hp{
+    width:25%;
+    margin-left: 37%;
+    margin-top: 10%;
+    bottom: 30px;
+    background-color:rebeccapurple;
+    padding: 20px;
+    border-radius: 50px;
+}
+.pp{
+    width: 70%;
+    margin-left:50px;
+    padding: 10px;
+}
+.oo{
+    color: aqua;
+    background:rgb(148, 91, 91);
+}
+.l{
+    background-color: green;
+    width:76%;
+    margin-left: 50px;
+    color: white;
+    padding: 10px;
+    font-size: 15px;
+}
+.img{
+    width: 25%;
+    margin-left:120px;
+    border-radius: 40px;
+    
+}
+.milk{
+    width: 25%;
+    background-color:wheat;
+    float: left;
+    margin: 10%;
+}
+.jj{
+    width:50% ;
+    margin-left:30% ;
+}
+.water{
+    width:25% ;
+    background-color:wheat;
+    float: left;
+    margin:10%;
+}
+.hh{
+    width: 50%;
+    margin-left:30% ;
+}
+.e{
+    color:rgb(71, 59, 203);
+}
+.g{
+  color: #e71010;
+
+}
+
+
